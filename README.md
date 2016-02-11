@@ -1,6 +1,6 @@
 # hello
 
-Copyright (C) 2016  Dodd, Bendon Charles
+    Copyright (C) 2016  Dodd, Bendon Charles
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -15,3 +15,6 @@ Copyright (C) 2016  Dodd, Bendon Charles
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Hello World readme
+
+    Hello World, my name is Brendon, and I have just found that GitHub is
+    much easier to use than I expected.
